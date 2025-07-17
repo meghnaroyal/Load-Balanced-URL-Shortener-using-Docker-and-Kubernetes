@@ -1,4 +1,4 @@
-# Load-Balanced URL Shortener using Docker & Kubernetes
+#  URL Shortener using Docker & Kubernetes
 
 A scalable and containerized URL shortening service built using Docker and Kubernetes. The application allows users to shorten long URLs and redirect to them using generated short links. It features horizontal scaling, load balancing, and monitoring in a Kubernetes cluster with optional persistent storage and CI/CD enhancements.
 
